@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+torch
+torchvision
+plotly
+matplotlib
+# optional: open3d (desktop 3D viewer)
